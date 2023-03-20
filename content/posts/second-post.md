@@ -1,7 +1,7 @@
 +++
 title = "Second Post"
 date = "2023-03-20T13:30:30Z"
-author = ""
+author = "Stefan"
 authorTwitter = "" #do not include @
 cover = ""
 tags = ["", ""]
@@ -11,5 +11,5 @@ showFullContent = false
 readingTime = false
 hideComments = false
 color = "" #color from the theme settings
-draft = true
+draft = false
 +++
